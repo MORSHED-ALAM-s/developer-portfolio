@@ -23,3 +23,9 @@ h1{
     margin: 5px;
     padding: 10px;
 }
+.hire{
+    text-decoration: none;
+    background-color: tomato;
+    border-radius: 2px;
+
+}
